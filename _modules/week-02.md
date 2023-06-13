@@ -9,7 +9,7 @@ M Jun 27
 Tu Jun 28
 : **Group**{: .label .label-group} Project reading
 
-W Jun 22
+W Jun 29
 : **Scholars**{: .label .label-lab} (1:30-3pm, Blum Hall B-100) Human Contexts and Ethics in Data Science Education
 
 Th Jun 30
